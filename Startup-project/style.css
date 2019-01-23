@@ -5,9 +5,9 @@ html {
   margin: 0px;
 }
 .btn{
-    
-    margin: 20px auto;
-    padding: .9em;
+    display: flex;
+    margin: 13em auto;
+    padding: .5em;
     border-radius: 60px;
 }
 
@@ -22,8 +22,7 @@ body {
 h2{ 
     display: flex;
     justify-content: center;
-    text-align: center;
-    margin-top: 5em;
+    margin-top: 6em;
     color: white;
 
 }
