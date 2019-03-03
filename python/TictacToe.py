@@ -1,6 +1,6 @@
 #Designed by Clever Programmer
 
-#
+
 # --------- Global Variables -----------
 
 # Will hold our game board data
