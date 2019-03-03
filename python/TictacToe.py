@@ -1,4 +1,4 @@
-#Designed by Clever
+#Designed by Clever Programmer
 
 #
 # --------- Global Variables -----------
