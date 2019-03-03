@@ -1,6 +1,6 @@
-#Designed by aa
+#Designed by Clever
 
-
+#
 # --------- Global Variables -----------
 
 # Will hold our game board data
